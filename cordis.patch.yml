@@ -1,0 +1,6 @@
+# dsh-token-stats plugin bundle layer.
+# Installed via `dsh plugin add` — this patch inserts the plugin into the
+# web profile's plugin list (id-targeted loader patch entries).
+- insert:
+    - id: token-stats
+      name: '@dsh-local/token-stats'
