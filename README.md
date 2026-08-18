@@ -33,9 +33,9 @@ DSH（DeepSeek Harness）Web 界面的每日 token 消耗统计插件，类似 C
 
 ## 安装位置
 
-- 插件源码：`C:\Users\owyoe\Desktop\dsh\dsh-token-stats\`
-- 加载器入口：`C:\Users\owyoe\.dsh\profiles\web\node_modules\@dsh-local\token-stats`（junction → 源码目录）
-- Profile 补丁：`C:\Users\owyoe\.dsh\profiles\web\cordis.patch.yml` 中的 `token-stats` 行
+- 插件源码：`C:\Users\~\Desktop\dsh\dsh-token-stats\`
+- 加载器入口：`C:\Users\~\.dsh\profiles\web\node_modules\@dsh-local\token-stats`（junction → 源码目录）
+- Profile 补丁：`C:\Users\~\.dsh\profiles\web\cordis.patch.yml` 中的 `token-stats` 行
 
 ## 修改后生效
 
