@@ -2,6 +2,10 @@
 
 DSH（DeepSeek Harness）Web 界面的每日 token 消耗统计插件，类似 Claude Code 的 `/cost` 与 Codex CLI 的用量统计。
 
+## 截图
+
+![Token 用量统计](assets/screenshot-1.png)
+
 ## 功能
 
 - **Web 设置页**：打开设置（侧栏齿轮）→「Token 用量」：
